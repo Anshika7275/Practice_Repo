@@ -8,6 +8,7 @@ public class Bindu {
 		System.out.println("hello from sana");
 		System.out.println("hello everyone");
 		System.out.println("Hello bindu");
+		System.out.println("Hi Hi hi");
 
 	}
 
