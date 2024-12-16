@@ -9,6 +9,13 @@ public class Bindu {
 		System.out.println("How you doing.!.");
 		
 		System.out.println("hello from sana");
+
+		System.out.println("hello everyone");
+		System.out.println("Hello bindu");
+		System.out.println("Hi Hi hi");
+		System.out.println("k");
+		System.out.println("good morning");
+
 		System.out.println("Nidhu pls check");
 
 	}
