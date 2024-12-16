@@ -6,6 +6,7 @@ public class Bindu {
 		System.out.println("Practice Github");
 		System.out.println("hiiii");
 		System.out.println("hello from sana");
+		System.out.println("hello everyone");
 
 	}
 
