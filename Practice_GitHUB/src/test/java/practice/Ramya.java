@@ -7,7 +7,7 @@ public class Ramya {
 	public void test()
 	{
 		System.out.println("hi welcome back!!!!!");
-		System.out.println("hiii");
+		System.out.println("hii");
 		
 	}
 	
