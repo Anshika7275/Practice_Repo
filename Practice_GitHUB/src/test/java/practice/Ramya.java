@@ -8,6 +8,10 @@ public class Ramya {
 	{
 		System.out.println("hi welcome back!!!!!");
 		System.out.println("byeeeee hi");
+		System.out.println("hi welcome back!!!!!");
+		System.out.println("hi");
+		System.out.println("added by sana1234 ");
+		System.out.println("byeeeee");
 		
 	}
 	
