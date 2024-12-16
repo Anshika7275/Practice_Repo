@@ -10,6 +10,7 @@ public class Bindu {
 		System.out.println("Hello bindu");
 		System.out.println("Hi Hi hi");
 		System.out.println("k");
+		System.out.println("good morning");
 
 	}
 
