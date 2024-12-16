@@ -8,5 +8,6 @@ public class sana
 	public void newtest()
 	{
 		System.out.println("Hello from sana");
+		System.out.println("Fruits are good fro health");
 	}
 }
