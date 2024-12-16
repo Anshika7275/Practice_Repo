@@ -8,7 +8,7 @@ public class sana
 	public void newtest()
 	{
 		System.out.println("Hello from sana1");
-		System.out.println("Hello from sana2");
+		System.out.println("Hello from sana22");
 		
 	}
 }
