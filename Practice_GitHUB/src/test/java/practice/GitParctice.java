@@ -8,7 +8,7 @@ public class GitParctice {
 
 		System.out.println("Hi sana..dfhf.lskldlksld!!!!!!!!!!");
 		
-=======
+
 		System.out.println("Good afternoon everyone");
 
 
