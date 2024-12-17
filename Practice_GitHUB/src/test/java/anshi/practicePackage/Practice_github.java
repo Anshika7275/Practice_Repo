@@ -8,7 +8,7 @@ public class Practice_github {
 	public void practice_github() {
 		
 		System.out.println("test!!!!!");
-		
+		System.out.println("test!!!!!");
 	}
 
 }
