@@ -6,6 +6,8 @@ public class GitPractise1 {
 	{
 		System.out.println("HiBye!!!!!!!!!!!!!!");
 		System.out.println("hdgh");
+		
+		System.out.println("JfwsjwFJ");
 
 	}
 
